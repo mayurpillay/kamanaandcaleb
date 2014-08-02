@@ -1,0 +1,40 @@
+.map{
+	padding-top: 6%;
+	left: 0;
+	right: 0;
+	text-align: center;
+}
+
+
+#menuwrapper {
+    
+	width: 750px;
+    height: auto;
+	padding-top: 30px;
+	margin: 0 auto;
+    left:0;
+    right:0;
+    text-align: center;
+    padding-right: 50px;
+}
+
+
+.navlist li{
+	display: inline-block;
+	vertical-align: baseline;
+	padding-left: 20px;
+	
+
+}
+
+
+.navlist li a{
+	
+	font-family: 'Neuton', serif;
+	font-weight: 300;
+	list-style: none;
+	color: #333;
+	font-size: 17 px;
+	letter-spacing: .07em;
+	text-align: center;
+}
